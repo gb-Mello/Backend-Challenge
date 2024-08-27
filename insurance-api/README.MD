@@ -40,12 +40,15 @@ Unit tests are implemented to ensure the correctness of the application's compon
 ### Prerequisites
 
 - Java 17
-- Maven
+- Maven 3.8.x
 - MongoDB Atlas
 - Swagger UI
 
 ### Setup
 
 1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/your-repository-url.git
+
+2. **mvn clean install:**
+
+3. To run tests: **mvn test**
+   
